@@ -13,6 +13,8 @@ A Male to Male GBA Link adapter.
    - Tested with Catskull GBA/GBC Link Port: https://catskullelectronics.com/products/gba-gbc-link-port?_pos=1&_sid=ccfa9b390&_ss=r
 2. Screws
    - I used some from this set: https://www.amazon.com/gp/product/B07S337WBB/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
+3. GBC Link Cable
+   - Tested with: https://www.amazon.com/gp/product/B078KKLKB8/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
 
 # JLCPCB Order Settings
 This is how I ordered my PCBs:
