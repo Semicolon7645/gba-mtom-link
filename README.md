@@ -1,4 +1,4 @@
-# WARNING: This is an in-development project and I cannot guarentee everything will go together smoothly.
+# WARNING: This is an in-development project and I cannot guarantee everything will go together smoothly.
 
 # gba-mtom-link
 A Male to Male GBA Link adapter.
